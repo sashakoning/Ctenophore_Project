@@ -1,4 +1,4 @@
-# Comparative study of Ctenophore phylogeny
+# Folder: Data_Repository, Comparative study of Ctenophore phylogeny
 
 *Authors: S. Koning and V. Stenvers*
 
@@ -14,8 +14,8 @@ The project is organised as follows:
 5. Combine both markers and again build a ML tree
 
 
-## Folder: Data_Repository
-Contains fasta files of the two genetic markers, downloaded from NCBI
+## Current folder: Data_Repository
+This folder contains the fasta files of the two genetic markers, downloaded from NCBI using edirect.
 
 ## Folder: Project
 Contains subdirectories for the 5 steps listed above (including codes, data and results)
